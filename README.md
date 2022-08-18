@@ -4,6 +4,7 @@
 [![Discord Badge](https://img.shields.io/discord/1009840060918673470?label=Discord&logo=Discord&logoColor=white)](https://discordapp.com/users/1006523331241062430)
 
 ### 👋🏻 Hey, I'm Rey a cassual software developer!
+I'm currenty working on a web page and a discord bot i will upload the repositories soon.
 
 ## 💼 Skills
 
