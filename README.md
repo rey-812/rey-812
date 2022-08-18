@@ -1,4 +1,4 @@
-![Banner](./Banner.jpg)
+![Banner](./KBanner.png)
 
 ### Hey, I'm Rey a cassual software developer, I always learn something new 👋
 
