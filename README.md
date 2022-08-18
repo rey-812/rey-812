@@ -1,3 +1,5 @@
+![Banner](./Banner.jpg)
+
 ### Hey, I'm Rey a cassual software developer, I always learn something new 👋
 
 
