@@ -1,8 +1,9 @@
 <img src="FutabaBanner.jpg" width="400" height="300" />
 
-### Hey, I'm Rey a cassual software developer, I always learn something new 👋
+### Hey, I'm Rey a cassual software developer!
 
 
 - 🔭 I’m currently working on: A web page
 - 🌱 I’m currently learning: python 
-- 📫 How to reach me: ...
+- 📫 Get in touch on Discord: Rеy#7282
+
