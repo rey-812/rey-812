@@ -1,7 +1,7 @@
 <img src="FutabaBanner.jpg" width="400" height="300" />
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rey_812)
-[![Twitter Badge](https://img.shields.io/discord)](https://discordapp.com/users/1006523331241062430)
+[![Discord Badge](https://img.shields.io/discord/1006523331241062430?label=Discord&logo=Discord&logoColor=white)](https://discordapp.com/users/1006523331241062430)
 https://discordapp.com/users/1006523331241062430
 
 
