@@ -1,4 +1,4 @@
-<img src="FutabaBanner.jpg" width="400" height="700" />
+<img src="FutabaBanner.jpg" width="700" height="500" />
 
 ### Hey, I'm Rey a cassual software developer!
 
