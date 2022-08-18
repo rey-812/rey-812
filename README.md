@@ -1,4 +1,4 @@
-![Banner](./FutabaBanner.jpg)
+<img src="img/FutabaBanner.jpg" width="400" />
 
 ### Hey, I'm Rey a cassual software developer, I always learn something new 👋
 
